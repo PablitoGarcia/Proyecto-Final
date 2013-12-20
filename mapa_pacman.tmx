@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" width="19" height="15" tilewidth="32" tileheight="33">
  <tileset firstgid="1" name="free_tileset_version_10" tilewidth="32" tileheight="32">
-  <image source="D:/Pilas engine/pilas/data/rpg/free_tileset_version_10.png" width="480" height="1216"/>
+  <image source="free_tileset_version_10.png" width="480" height="1216"/>
  </tileset>
  <tileset firstgid="571" name="textura 1" tilewidth="32" tileheight="33">
   <image source="textura 1.png" width="650" height="900"/>
